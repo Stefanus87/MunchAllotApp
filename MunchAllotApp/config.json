@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MunchAllotConnectionString": "server=(localdb)\\ProjectsV13;Database=MunchAllotDb;Integrated Security=true; MultipleActiveResultSets=true;"
+  }
+}

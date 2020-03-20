@@ -1,0 +1,122 @@
+[
+   {
+      "Id":0,
+	  "Name":"Pizza HawaII",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Hot & Spicy",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Caprese",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Tonno",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Deluxe",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":12.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Creamy Bacon",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":11.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Vegy",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":8.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Americana",
+      "Category":"Original",
+      "Size":"Medium",
+      "Price":13.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Funghi",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":13.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Vegan BBQ",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Margarita",
+      "Category":"Original",
+      "Size":"Medium",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Cheeseburger",
+      "Category":"Original",
+      "Size":"Medium",
+      "Price":10.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Forestiere",
+      "Category":"Original",
+      "Size":"Large",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Vegan Spicy",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":9.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Chicken Kebab",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":5.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Mixed BBQ",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":6.99
+   },
+      {
+      "Id":0,
+	  "Name":"Pizza Dominator",
+      "Category":"Original",
+      "Size":"Small",
+      "Price":10.99
+   },
+   
+ ]
